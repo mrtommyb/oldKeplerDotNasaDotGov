@@ -1,0 +1,4 @@
+# ignore movies because they are too large for github
+*.mov
+*.mp4
+
